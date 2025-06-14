@@ -24,7 +24,6 @@ Ein integriertes XP- und Levelsystem motiviert dich spielerisch zu mehr Selbstre
 ## 🖼️ Screenshots
 
 ![Screenshot Hauptfenster](screenshots/1.png)
-![Screenshot Aufgaben](screenshots/2.png)
 ```
 
 ---
