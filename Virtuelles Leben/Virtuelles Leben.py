@@ -14,6 +14,17 @@ from PyQt5.QtCore import Qt, QPoint, QDate
 # Für Diagramme
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.figure import Figure
+import time
+
+print("
+Virtuelles Leben - Aufgaben Planer
+
+Copyright (c) 2025 gtadesktop
+
+Dieses Projekt ist unter der MIT Lizenz lizenziert.
+")
+
+time.sleep(10)
 
 DATA_DIR = "data"
 THOUGHTS_FILE = os.path.join(DATA_DIR, "thoughts.json")
