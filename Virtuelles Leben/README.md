@@ -5,6 +5,10 @@ Ein integriertes XP- und Levelsystem motiviert dich spielerisch zu mehr Selbstre
 
 ---
 
+## Badges
+
+![GitHub](https://img.shields.io/github/license/gtadesktop/Virtuelles-Leben-Aufgaben-Planer)
+
 ## 🚀 Features
 
 - 🌑 **Modernes Dark Theme**
