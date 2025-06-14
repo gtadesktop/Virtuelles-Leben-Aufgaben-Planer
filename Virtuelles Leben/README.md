@@ -74,7 +74,7 @@ python main.py
 
 ## Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert — siehe [LICENSE](main/LICENSE) für Details.
+Dieses Projekt ist unter der MIT-Lizenz lizenziert — siehe [LICENSE](LICENSE) für Details.
 
 
 Viel Spaß beim Ausprobieren! 🚀
