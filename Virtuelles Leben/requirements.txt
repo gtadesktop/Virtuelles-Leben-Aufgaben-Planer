@@ -1,0 +1,13 @@
+# requirements.txt
+
+# Standard requirements for a typical Python project
+# Ergänze oder passe die Pakete nach deiner README an
+
+# Beispielhafte Pakete:
+
+random
+json
+os
+sys
+csv
+PyQt5.QtWidgets
